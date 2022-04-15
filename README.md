@@ -1,4 +1,4 @@
-# Operating_Systems
+# Operating Systems
 This Repository demonstrates fundamental operating system theory knowledge in python
 
 # To run:
