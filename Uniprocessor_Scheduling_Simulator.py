@@ -309,7 +309,7 @@ def main():
     # create an empty array to store the input
     LineInFile = []
     # open the input file
-    fp1 = open("inp.txt", "r")
+    fp1 = open("uni_inp.txt", "r")
 
     line = fp1.readline()
 
