@@ -1,0 +1,6 @@
+Input Text: Lab 7
+Process: A, Arrival Time: 0, Service Time: 9
+Process: B, Arrival Time: 1, Service Time: 5
+Process: C, Arrival Time: 2, Service Time: 9
+Process: D, Arrival Time: 3, Service Time: 2
+Process: E, Arrival Time: 4, Service Time: 6
