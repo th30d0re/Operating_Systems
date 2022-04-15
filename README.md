@@ -8,4 +8,4 @@ This Repository demonstrates fundamental operating system theory knowledge in py
 
 
 [^1]: You may have to install  ``` pandas ``` & ``` matplotlib ``` to run. 
-  I recomend using `venv` to for an [virtual environment] (https://docs.python.org/3/tutorial/venv.html) and [pip3] (https://pip.pypa.io/en/stable/) to install
+  I recomend using `venv` to for an [virtual environment](https://docs.python.org/3/tutorial/venv.html) and [pip3](https://pip.pypa.io/en/stable/) to install
